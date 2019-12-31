@@ -4,7 +4,7 @@ RPM-BVA is a Python program for simple multipication of two numbers by running o
 
 ## Installation
 
-Download from github  unzip and run flask as a server (or run it on any other web server as you like). Pre-install Python, Flask, and IBM Qiskit for system enviroment.
+Download from github https://github.com/Ming2027/RussianPeasantMultiplication unzip and run flask as a server (or run it on any other web server as you like). Pre-install Python, Flask, and IBM Qiskit for system enviroment.
 
 
 ## Usage
